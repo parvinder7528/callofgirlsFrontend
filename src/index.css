@@ -1,0 +1,2 @@
+/* index.css — global styles entry (re-exports design system from styles.css) */
+@import "./styles.css";
